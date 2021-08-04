@@ -1,1 +1,1 @@
-# 3d-pac-man
+# Enjoy the 3D-pacman
